@@ -127,21 +127,18 @@
   "projects": [
     {
       "name": "FASHIN: Federated Access to Secure Healthcare INformation",
-      "date": "2017",
       "summary": "This project aimed at developing techniques for accessing distributed data from the National Health Service (NHS) in an efficient and privacy-preserving fashion. This research grant was authored by me.",
-      "highlights": ["Budget: £100K", "Role: Principal Investigator", "Funding source: Turing Institute, UK and FARR Institute, UK"]
+      "highlights": ["Budget: £100K", "Role: Principal Investigator", "Funding source: Turing Institute, UK and FARR Institute, UK", "Year: 2017"]
     },
     {
       "name": "Simple Unified Access to Biological Resources on The Web",
-      "date": "2015",
       "summary": "This projected aimed at developing a platform for accessing data from the European Bioinformatics Institute (EBI), the National Centre for Biotechnology Information (NCBI), and the Kyoto Encyclopaedia of Genes and Genomes (KEGG) in a transparent fashion. This research grant was co-authored by me and Professor Michael Benedikt from the University of Oxford.",
-      "highlights": ["Role: Research associate", "Funding source: EPSRC Impact Acceleration"]
+      "highlights": ["Role: Research associate", "Funding source: EPSRC Impact Acceleration", "Year: 2015"]
     },
     {
       "name": "Cloud9: A Multidisciplinary, Holistic Approach to Internet-Scale Cloud Computing",
-      "date": "2012",
       "summary": "This projected aimed at developing techniques for optimally answering queries in distributed settings subject to Service Level Agreements (SLAs). I was the lead of this project and participated in the writing of this research grant.",
-      "highlights": ["Role: Research associate", "Funding source: Greek National Strategic Reference Framework"]
+      "highlights": ["Role: Research associate", "Funding source: Greek National Strategic Reference Framework", "Year: 2012"]
     }
   ]
 }
