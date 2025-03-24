@@ -1,9 +1,19 @@
 {
+  
+  "basics": {
+    "name": "Efthymia Tsamoura",
+    "image": "",
+    "email": "efthymia.tsamoura@gmail.com",
+    "location": {
+      "city": "Cambridge",
+      "countryCode": "UK"
+    }
+  },
   "work": [
     {
       "name": "Huawei Labs",
       "position": "Technical Expert",
-      "date": "2025-05-07",
+      "startDate": "2025-05-07",
       "summary": "I will join the Huawei Labs to lead the ondevice team."
     },
     {
@@ -127,21 +137,21 @@
   "projects": [
     {
       "name": "FASHIN: Federated Access to Secure Healthcare INformation",
-      "summary": "Quantum computing is the use of quantum-mechanical phenomena such as superposition and entanglement to perform computation. Computers that perform quantum computations are known as quantum computers.",
+      "summary": "This project aimed at developing techniques for accessing distributed data from the National Health Service (NHS) in an efficient and privacy-preserving fashion. This research grant was authored by me.",
       "highlights": ["Budget: £100K", "Role: Principal Investigator", "Funding source: Turing Institute, UK and FARR Institute, UK"],
-      "date": "2017"
+      "endDate": "2017"
     },
     {
       "name": "Simple Unified Access to Biological Resources on The Web",
-      "summary": "The aim was to develop a platform for accessing data from the European Bioinformatics Institute (EBI), the National Centre for Biotechnology Information (NCBI), and the Kyoto Encyclopaedia of Genes and Genomes (KEGG) in a transparent fashion. This research grant was co-authored by me and Professor Michael Benedikt from the University of Oxford.",
+      "summary": "This projected aimed at developing a platform for accessing data from the European Bioinformatics Institute (EBI), the National Centre for Biotechnology Information (NCBI), and the Kyoto Encyclopaedia of Genes and Genomes (KEGG) in a transparent fashion. This research grant was co-authored by me and Professor Michael Benedikt from the University of Oxford.",
       "highlights": ["Role: Research associate", "Funding source: EPSRC Impact Acceleration"],
-      "date": "2017"
+      "endDate": "2017"
     },
     {
       "name": "Cloud9: A Multidisciplinary, Holistic Approach to Internet-Scale Cloud Computing",
-      "summary": "The aim was to develop techniques for optimally answering queries in distributed settings subject to Service Level Agreements (SLAs). I was the lead of this project and participated in the writing of this research grant.",
+      "summary": "This projected aimed at developing techniques for optimally answering queries in distributed settings subject to Service Level Agreements (SLAs). I was the lead of this project and participated in the writing of this research grant.",
       "highlights": ["Role: Research associate", "Funding source: Greek National Strategic Reference Framework"],
-      "date": "2017"
+      "endDate": "2017"
     }
   ]
 }
