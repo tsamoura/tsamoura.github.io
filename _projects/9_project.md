@@ -78,3 +78,10 @@ Here's the code for the last row of images above:
 ```
 
 {% endraw %}
+
+
+## related publications
+<div class="publications">
+  {% bibliography -f papers -q @*[key=tsamoura2024goaldrivenqueryansweringfirst]* %}
+  {% bibliography -f papers -q @*[key=feldstein2024mappingneurosymbolicailandscape]* %}
+</div>
