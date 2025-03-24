@@ -1,6 +1,12 @@
 {
   "work": [
     {
+      "name": "Huawei Labs",
+      "position": "Technical Expert",
+      "startDate": "2025-05-07",
+      "summary": "I will join the Huawei Labs to lead the ondevice team."
+    },
+    {
       "name": "Samsung AI Centre (SAIC), Cambridge",
       "position": "Senior Researcher",
       "startDate": "2019-01-07",
@@ -13,7 +19,7 @@
       "position": "Research Fellow",
       "startDate": "2016-10-01",
       "endDate": "2018-12-31",
-      "summary": "In 2016, the Turing Institute awarded me an early career fellowship, selecting me among more than 300 applicants for my contributions in logic and databases. My research focused on accessing heterogeneous data under privacy restrictions and logical reasoning both from an applied and a theoretical perspective.",
+      "summary": "My research focused on accessing heterogeneous data under privacy restrictions and logical reasoning both from an applied and a theoretical perspective.",
       "highlights": ["I was the principal investigator of a project on accessing distributed NHS data under formal privacy guarantees, receiving funding from the Turing and the FARR institutes.", "I developed provably correct techniques for accessing remote data under formal privacy guarantees.", "I developed the first technique for efficiently answering queries over Web-scale knowledge graphs under complex logical theories under guarantees on the correctness and completeness of the answers."]
     },
     {
@@ -31,18 +37,18 @@
       "highlights": ["I led a nationally funded project on querying data sitting in Cloud infrastructure."]
     },
     {
-      "name": "Information Technologies Institute, Centre of Research and Technology Hellas (CERTH), GR",
+      "name": "Centre of Research and Technology Hellas (CERTH), GR",
       "position": "Research assistant",
       "startDate": "2007-10-31",
       "endDate": "2008-06-31",
-      "highlights": ["I developed techniques for video understanding that were published in the IEEE International Conference on Image Processing."]
+      "highlights": ["I developed techniques for video understanding."]
     },
     {
       "name": "Artificial Intelligence and Information Analysis Lab, Department of Computer Science, Aristotle University of Thessaloniki, GR",
       "position": "Research assistant",
       "startDate": "2006-06-31",
       "endDate": "2007-09-31",
-      "highlights": ["I developed computer vision techniques that were published in the IEEE Transactions on Image Processing journal."]
+      "highlights": ["I developed computer vision techniques for assembling archaeological artefacts."]
     }
   ],
   "volunteer": [
@@ -50,7 +56,7 @@
       "organization": "St Paul's VA CofE Primary School",
       "location": "Cambidge, UK",
       "startDate": "2025-04-01",
-      "summary": "Together with teachers at the St Paul's VA CofE Primary School, we will organize a series of events to introduce primary school students to computing and engineering."
+      "summary": "Together with teachers at the St Paul's VA CofE Primary School we will organize a series of events to introduce primary school students to computing and engineering."
     }
   ],
   "education": [
@@ -75,43 +81,52 @@
   ],
   "awards": [
     {
-      "title": "Nobel Prize in Physics",
-      "date": "1921-11-01",
-      "awarder": "Royal Swedish Academy of Sciences",
-      "url": "https://www.nobelprize.org/prizes/physics/1921/einstein/biographical/",
-      "summary": "The Nobel Prizes are five separate prizes that, according to Alfred Nobel's will of 1895, are awarded to 'those who, during the preceding year, have conferred the greatest benefit to humankind.'"
-    }
-  ],
-  "skills": [
-    {
-      "name": "Physics",
-      "level": "Master",
-      "icon": "fa-solid fa-hashtag",
-      "keywords": [
-        "Quantum Mechanics",
-        "Quantum Computing",
-        "Quantum Information",
-        "Quantum Cryptography",
-        "Quantum Communication",
-        "Quantum Teleportation"
-      ]
-    }
-  ],
-  "languages": [
-    {
-      "language": "German",
-      "fluency": "Native speaker",
-      "icon": ""
+      "title": "Future leader in AI",
+      "date": "2024-02-01",
+      "awarder": "Royal Society",
+      "url": "https://rsc-src.ca/en/events/frontiers-science-2024",
+      "summary": "I was recognized as a future leader in AI by the Royal Society, being invited to the Frontiers of Science (FoS) meeting."
     },
     {
-      "language": "English",
-      "fluency": "Fluent",
-      "icon": ""
+      "title": "Early Career Research Fellowship",
+      "date": "2016-04-01",
+      "awarder": "Turing Institute, UK",
+      "summary": "The Turing Institute awarded me an early career fellowship, selecting me among more than 300 applicants for my contributions in logic and databases."
+    },
+    {
+      "title": "Best PhD student in Computer Science",
+      "date": "2010",
+      "awarder": "State Scholarships Foundation, GR"
+    },
+    {
+      "title": "Highest ranked BSc student in Computer Science",
+      "date": "2007",
+      "awarder": "State Scholarships Foundation, GR"
+    },
+    {
+      "title": "Young scientists scholarship",
+      "date": "2006",
+      "awarder": "Onassis Foundation"
+    },
+    {
+      "title": "Highest ranked BSc student in Computer Science",
+      "date": "2006",
+      "awarder": "State Scholarships Foundation, GR"
+    },
+    {
+      "title": "Highest ranked BSc student in Computer Science",
+      "date": "2005",
+      "awarder": "State Scholarships Foundation, GR"
+    },
+    {
+      "title": "Highest ranked BSc student in Computer Science",
+      "date": "2004",
+      "awarder": "State Scholarships Foundation, GR"
     }
   ],
   "projects": [
     {
-      "name": "Quantum Computing",
+      "name": "FASHIN: Federated Access to Secure Healthcare INformation",
       "summary": "Quantum computing is the use of quantum-mechanical phenomena such as superposition and entanglement to perform computation. Computers that perform quantum computations are known as quantum computers.",
       "highlights": ["Quantum Teleportation", "Quantum Cryptography"],
       "startDate": "2018-01-01",
