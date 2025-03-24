@@ -4,7 +4,7 @@ title: projects
 permalink: /projects/
 nav: true
 nav_order: 3
-display_categories: [logic and databases, reasoning, knowledge bases, neurosymbolic learning, rule mining]
+display_categories: [logic and databases, reasoning, query answering over knowledge bases, neurosymbolic learning, rule mining]
 horizontal: false
 ---
 
