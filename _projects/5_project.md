@@ -16,6 +16,9 @@ NeuroLog outperformed in terms of accuracy and runtime all the state-of-the-art 
 training neural classifiers using supervision coming from logical theories and learning under imbalances in 
 neurosymbolic settings. 
 
+## Repository
+<a href="https://bitbucket.org/tsamoura/neurolog/src/master/">NeuroLog</a>
+
 ## Relevant publications
 <div class="publications">
   {% bibliography -f papers -q @*[key=DBLP:conf/aaai/TsamouraHM21]* %}

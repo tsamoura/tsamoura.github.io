@@ -23,6 +23,8 @@ Concordia is strictly more expressive than
 <a href="https://aclanthology.org/D18-1215/">DLP</a> and
 <a href="https://aclanthology.org/P16-1228/">T-S</a> in terms of the types of supported logical theories.
 
+## Repository
+<a href="https://github.com/jonathanfeldstein/Concordia">Concordia</a>
 
 ## Relevant publications
 <div class="publications">

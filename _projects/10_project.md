@@ -14,6 +14,9 @@ Mining rules from relational data is a key problem in AI. The basis of rule mini
 
 PRISM has been the basis for developing <a href="https://arxiv.org/abs/2409.16238">STECTRUM</a>, an even more efficient C++ rule mining technique that scales to databases of million facts. Furthermore, SPECTRUM outperforms on the most well-known benchmarks, such as <a href="https://ojs.aaai.org/index.php/AAAI/article/view/11573">WN18RR</a> and <a href="https://aclanthology.org/W15-4007">FB15K-237</a> state-of-the-art rule mining techniques for entity linking, such as <a href="https://link.springer.com/chapter/10.1007/978-3-030-49461-2_3">AMIE3</a>, <a href="https://openreview.net/forum?id=tGZu6DlbreV">RNNLogic</a>, and <a href=" https://openreview.net/forum?id=F8VKQyDgRVj">NCRL</a>, <strong>by up to x100 in terms of runtime</strong>, while running exclusively on CPU.
 
+## Repository
+<a href="https://github.com/jonathanfeldstein/PRISM">PRISM</a>
+
 ## Relevant publications
 <div class="publications">
   {% bibliography -f papers -q @*[key=DBLP:conf/aaai/FeldsteinPT23]* %}

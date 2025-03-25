@@ -11,6 +11,9 @@ github: https://krr-nas.cs.ox.ac.uk/2024/goal-driven-QA/
 Technique to support sound and complete query answering over knowledge graphs under Datalog rules with existential quantification and equalities. 
 ChaseGoal outperforms by several orders of magnitude in terms of runtime and memory query answering under the commercial engine <a href="https://www.oxfordsemantic.tech/rdfox/">RDFox</a>, making the difference between answering a query in a few seconds or not being able to process the query at all.
 
+## Repository
+<a href="https://krr-nas.cs.ox.ac.uk/2024/goal-driven-QA/">Goal Driven QA</a>
+
 ## Relevant publications
 <div class="publications">
   {% bibliography -f papers -q @*[key=DBLP:conf/aaai/BenediktMT18]* %}

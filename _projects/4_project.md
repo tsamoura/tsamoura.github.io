@@ -16,6 +16,9 @@ using Datalog rules under the
 by several orders of magnitude in terms of runtime, making the difference between answering a query in a few seconds or not being able to process the query at all. vProbLog relies on the notion of 
 <a href="https://dl.acm.org/doi/10.1145/1265530.1265535">provenance semirings</a> to enable probabilistic reasoning and database optimization techniques to speed up reasoning. 
 
+## Repository
+<a href="https://bitbucket.org/tsamoura/vproblog/src/master/">vProbLog</a>
+
 ## Relevant publications
 <div class="publications">
   {% bibliography -f papers -q @*[key=DBLP:conf/aaai/TsamouraGK20]* %}

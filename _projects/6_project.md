@@ -29,6 +29,8 @@ Other knowledge graphs in which GLog outperforms the state-of-the-art are
 GLog can be deployed on mobile phones 
 under the Android NDK for reasoning that runs exclusively on-device. 
 
+## Repository
+<a href="https://github.com/karmaresearch/glog">GLog</a>
 
 ## Relevant publications
 <div class="publications">

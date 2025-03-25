@@ -31,6 +31,8 @@ LTGs can be applied to on-device visual question answering and outperforms
 <a href="https://proceedings.neurips.cc/paper/2021/hash/d367eef13f90793bd8121e2f675f0dc2-Abstract.html">VQAR benchmark</a>.
 In addition, its <a href="https://github.com/karmaresearch/glog-python">Python API</a> offers easy integration with foundational models.
 
+## Repository
+<a href="https://github.com/karmaresearch/glog">GLog</a>
 
 ## Relevant publications
 <div class="publications">
