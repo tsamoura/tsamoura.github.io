@@ -23,7 +23,7 @@
       "endDate": "2018-12-31",
       "location": "London, UK",
       "summary": "My research focused on accessing heterogeneous data under privacy restrictions and logical reasoning both from an applied and a theoretical perspective.",
-      "highlights": ["I was the principal investigator of a project on accessing distributed NHS data under formal privacy guarantees, receiving funding from the Turing and the FARR institutes.", "I developed provably correct techniques for accessing remote data under formal privacy guarantees.", "I developed the first technique for efficiently answering queries over Web-scale knowledge graphs under complex logical theories under guarantees on the correctness and completeness of the answers."]
+      "highlights": ["I was the principal investigator of a project on accessing distributed NHS data under formal privacy guarantees, receiving funding from the Turing and the FARR institutes.", "I developed provably correct techniques for accessing remote data under formal privacy guarantees.", "I developed the first technique for efficiently answering queries over Web-scale knowledge graphs under complex logical theories, offerring guarantees on the correctness and completeness of the answers."]
     },
     {
       "name": "Department of Computer Science, University of Oxford, UK",
