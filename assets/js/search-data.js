@@ -457,12 +457,12 @@ ninja.data = [{
               window.location.href = "/projects/3_project/";
             },},{id: "projects-vproblog",
           title: 'vProbLog',
-          description: "Probabilistic Query Answering using Provenance Semirings",
+          description: "Probabilistic Reasoning Under the Possible World Semantics",
           section: "Projects",handler: () => {
               window.location.href = "/projects/4_project/";
             },},{id: "projects-neurolog",
           title: 'NeuroLog',
-          description: "Probabilistic Query Answering using Provenance Semirings",
+          description: "Compositional Neurosymbolic Integration",
           section: "Projects",handler: () => {
               window.location.href = "/projects/5_project/";
             },},{
