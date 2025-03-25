@@ -10,6 +10,13 @@ github: https://github.com/ProofDrivenQuerying/pdq
 
 Java engine to support querying remote distributed data sources under different access patterns (e.g., web services) and database constraints (e.g., inclusion dependencies). The engine has been demoed on multiple scenarios, including querying biological data available via web services.
 
+## GitHub Repository
+
+<div class="repositories d-flex flex-wrap flex-md-row flex-column justify-content-between align-items-center">
+  {% include repository/repo.liquid repository=ProofDrivenQuerying/pdq %}
+</div>
+{% endif %}
+
 ## Relevant publications
 <div class="publications">
   {% bibliography -f papers -q @*[key=DBLP:journals/sigmod/BenediktCGGTMO22]* %}

@@ -1,7 +1,7 @@
 ---
 layout: page
 title: NeuroLog
-description: Probabilistic Query Answering using Provenance Semirings
+description: Compositional Neurosymbolic Integration
 img: assets/img/4.jpg
 importance: 1
 category: neurosymbolic learning

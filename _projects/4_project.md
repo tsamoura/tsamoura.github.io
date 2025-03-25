@@ -1,10 +1,10 @@
 ---
 layout: page
 title: vProbLog
-description: Probabilistic Query Answering using Provenance Semirings
+description: Probabilistic Reasoning Under the Possible World Semantics
 img: assets/img/4.jpg
 importance: 1
-category: query answering over knowledge bases
+category: reasoning
 github: https://bitbucket.org/tsamoura/vproblog/src/master/
 ---
 
