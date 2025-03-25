@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Moving to Huawei Labs</a> Email: efthymia dot tsamoura at gmail dot com
+subtitle: <a href='#'>Moving to Huawei Labs</a>
 
 profile:
   align: right
