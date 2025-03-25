@@ -3,7 +3,7 @@ layout: page
 title: NGP
 description: Scene Graph Generation Using Background Knolwedge 
 img: assets/img/4.jpg
-importance: 1
+importance: 2
 category: neurosymbolic learning
 ---
 
