@@ -219,12 +219,6 @@
       "date": "2015",
       "summary": "This projected developed a platform for accessing data from the European Bioinformatics Institute (EBI), the National Centre for Biotechnology Information (NCBI), and the Kyoto Encyclopaedia of Genes and Genomes (KEGG) in a transparent fashion. This research grant was co-authored by me and Professor Michael Benedikt from the University of Oxford.",
       "highlights": ["Role: Research associate", "Funding source: EPSRC Impact Acceleration"]
-    },
-    {
-      "name": "Cloud9: A Multidisciplinary, Holistic Approach to Internet-Scale Cloud Computing",
-      "date": "2012",
-      "summary": "This projected developed techniques for optimally answering queries in distributed settings subject to Service Level Agreements (SLAs). I was the lead of this project.",
-      "highlights": ["Role: Research associate", "Funding source: Greek National Strategic Reference Framework"]
     }
   ]
 }
