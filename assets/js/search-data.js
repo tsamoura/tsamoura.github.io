@@ -3,8 +3,8 @@ const ninja = document.querySelector('ninja-keys');
 
 // add the home and posts menu items
 ninja.data = [{
-    id: "nav-",
-    title: "",
+    id: "nav-about",
+    title: "about",
     section: "Navigation",
     handler: () => {
       window.location.href = "/";
@@ -47,7 +47,7 @@ ninja.data = [{
           section: "News",},{id: "news-uploaded-a-new-version-of-our-rule-mining-technique-spectrum-to-arxiv-special-thanks-to-jonathan-feldstein-and-dominic-phillips-sparkles",
           title: 'Uploaded a new version of our rule mining technique, SPECTRUM, to arXiv. Special...',
           description: "",
-          section: "News",},{id: "news-very-honored-to-receive-an-invitation-to-present-my-research-at-the-ivado-montreal-workshopon-neuro-symbolic-ai-may-5-7-and-discuss-the-latest-advances-in-the-field-with-yoshua-bengio-luc-de-raedt-francesca-rossi-gilles-pesant-and-many-others-leaders-in-ai-and-neurosymbolic-learning-sparkles",
+          section: "News",},{id: "news-very-honored-to-receive-an-invitation-to-present-my-research-at-the-ivado-montreal-workshopon-neuro-symbolic-ai-may-5-7-and-discuss-the-latest-advances-in-the-field-with-yoshua-bengio-luc-de-raedt-francesca-rossi-gilles-pesant-and-many-other-leaders-in-ai-and-neurosymbolic-learning-sparkles",
           title: 'Very honored to receive an invitation to present my research at the IVADO...',
           description: "",
           section: "News",},{id: "news-visiting-the-huawei-labs-in-edinburgh-to-give-a-technical-talk-and-meet-my-colleagues-sparkles",
