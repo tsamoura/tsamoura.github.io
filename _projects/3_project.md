@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ChaseGoal
-description: Query Answering Over Knowledge Graphs
+description: Query Answering Over Knowledge Graphs Using First-Order Theories
 img: assets/img/4.jpg
 importance: 1
 category: query answering over knowledge bases
