@@ -68,7 +68,7 @@
   ],
   "keynotes": [
     {
-      "title": "Reasoning at Scale: Why, How and What’s Next",
+      "position": "Reasoning at Scale: Why, How and What’s Next",
       "organization": "20th Extended Semantic Web Conference (ESWC)",
       "url": "https://2023.eswc-conferences.org/keynote-speakers/", 
       "location": "Heraklion, GR",
@@ -76,7 +76,7 @@
       "summary": "I presented my latest work on reasoning and reviewed the limitations of previous reasoning techniques."
     },
     {
-      "title": "Training Neural Classifiers Using Logic",
+      "position": "Training Neural Classifiers Using Logic",
       "organization": "1st International Workshop on Logical Foundations of Neuro-Symbolic AI -- collocated with the 33rd International Joint Conference on Artificial Intelligence (IJCAI)",
       "url": "https://sites.google.com/view/lnsai2024/", 
       "location": "Jeju, South Korea",
@@ -86,56 +86,56 @@
   ],
   "workshops": [
     {
-      "title": "1st Workshop on New Ideas for Large-Scale Neurosymbolic Learning System", 
+      "position": "1st Workshop on New Ideas for Large-Scale Neurosymbolic Learning System", 
       "organization": "collocated with the 51st International Conference on Very Large Data Bases",
       "url": "https://karmaresearch.github.io/NILS2025/", 
       "location": "London, UK",
       "date": "2025-09-05"
     },
     {
-      "title": "4th Knowledge-Infused Learning Workshop", 
+      "position": "4th Knowledge-Infused Learning Workshop", 
       "organization": "collocated with the 30th ACM SIGKDD Conference on Knowledge Discovery and Data Mining",
       "url": "https://kil-workshop.github.io", 
       "location": "Barcelona, Spain",
       "date": "2024-08-01"
     },
     {
-      "title": "Neurosymbolic AI Panel",
+      "position": "Neurosymbolic AI Panel",
       "organization": "collocated with the 22nd International Semantic Web Conference",
       "url": "https://iswc2023.semanticweb.org/neuro-symbolic-ai-panel/", 
       "location": "Athens, GR",
       "date": "2023-11-01"
     },
     {
-      "title": "3rd Knowledge-Infused Learning Workshop", 
+      "position": "3rd Knowledge-Infused Learning Workshop", 
       "organization": "collocated with the 29th ACM SIGKDD Conference on Knowledge Discovery and Data Mining",
       "url": "https://aiisc.ai/kiml2023/", 
       "location": "California, USA",
       "date": "2023-08-01"
     },
     {
-      "title": "Neurosymbolic AI for Agent and Multi-Agent Systems Workshop", 
+      "position": "Neurosymbolic AI for Agent and Multi-Agent Systems Workshop", 
       "organization": "collocated with the 22nd International Conference on Autonomous Agents and Multiagent Systems",
       "url": "https://albertmeronyo.github.io/nesymas23/", 
       "location": "London, UK",
       "date": "2023-05-01"
     },
     {
-      "title": "2nd Samsung AI Neurosymbolic Workshop",
+      "position": "2nd Samsung AI Neurosymbolic Workshop",
       "organization": "Samsung AI",
       "url": "https://research.samsung.com/sanw", 
       "location": "Virtual Event",
       "date": "2022-06-01"
     },
     {
-      "title": "Knowledge Representation for Hybrid and Compositional AI Workshop", 
+      "position": "Knowledge Representation for Hybrid and Compositional AI Workshop", 
       "organization": "collocated with the 18th International Conference on Principles of Knowledge Representation and Reasoning",
       "url": "https://krhcai.github.io/", 
       "location": "Virtual Event",
       "date": "2021-11-01"
     },
     {
-      "title": "1st Samsung AI Neurosymbolic Workshop",
+      "position": "1st Samsung AI Neurosymbolic Workshop",
       "organization": "Samsung AI",
       "url": "https://research.samsung.com/sanw2021", 
       "location": "Virtual Event",
