@@ -35,4 +35,5 @@ under the Android NDK for reasoning that runs exclusively on-device.
 ## Relevant publications
 <div class="publications">
   {% bibliography -f papers -q @*[key=DBLP:journals/pvldb/TsamouraCMU21]* %}
+  {% bibliography -f papers -q @*[key=DBLP:conf/pods/BenediktKMMPST17]* %}
 </div>

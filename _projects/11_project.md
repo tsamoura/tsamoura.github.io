@@ -15,6 +15,7 @@ Supporting sound and complete query answering over knowledge graphs under very c
 
 ## Relevant publications
 <div class="publications">
-  {% bibliography -f papers -q @*[key=DBLP:conf/aaai/BenediktMT18]* %}
   {% bibliography -f papers -q @*[key=tsamoura2024goaldrivenqueryansweringfirst]* %}
+  {% bibliography -f papers -q @*[key=DBLP:conf/aaai/BenediktMT18]* %}
+  {% bibliography -f papers -q @*[key=DBLP:conf/pods/BenediktKMMPST17]* %}
 </div>
