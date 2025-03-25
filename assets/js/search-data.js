@@ -23,8 +23,8 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/publications/";
           },
-        },{id: "nav-projects",
-          title: "projects",
+        },{id: "nav-projects-and-software",
+          title: "projects and software",
           description: "",
           section: "Navigation",
           handler: () => {
@@ -480,8 +480,8 @@ ninja.data = [{
           description: "Reasoning Over Billions of Triples Under Datalog",
           section: "Projects",handler: () => {
               window.location.href = "/projects/6_project/";
-            },},{id: "projects-lineage-trigger-graphs-ltgs",
-          title: 'Lineage Trigger Graphs (LTGs)',
+            },},{id: "projects-lineage-trigger-graphs",
+          title: 'Lineage Trigger Graphs',
           description: "Probabilistic Reasoning Under the Possible World Semantics",
           section: "Projects",handler: () => {
               window.location.href = "/projects/7_project/";
