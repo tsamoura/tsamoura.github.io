@@ -5,6 +5,6 @@ inline: true
 related_posts: false
 ---
 
-The webpage of our <a href="https://karmaresearch.github.io/NILS2025/"> 1st Workshop on New Ideas for Large-Scale Neurosymbolic Learning Systems (LS-NSL)</a> is out :sparkles: We look forward to receiving your paper! 
+The webpage of our <a href="https://karmaresearch.github.io/NILS2025/"> 1st Workshop on New Ideas for Large-Scale Neurosymbolic Learning Systems (LS-NSL)</a> is out :sparkles: We look forward to receiving your papers! 
 
 
