@@ -6,7 +6,7 @@ subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: 
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>555 your office number</p>
@@ -19,7 +19,7 @@ social: true # includes social icons at the bottom of the page
 announcements:
   enabled: true # includes a list of news items
   scrollable: true # adds a vertical scroll bar if there are more than 3 news items
-  limit: 5 # leave blank to include all the news in the `_news` folder
+  limit: 8 # leave blank to include all the news in the `_news` folder
 
 latest_posts:
   enabled: true
@@ -27,9 +27,7 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
-
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
-
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+I am a researcher working on logic, knowledge representation and reasoning, and neurosymbolic learning.
+From 2019 to 2025, I was a Senior Researcher at Samsung AI, Cambridge, UK, leading the research on reasoning and neurosymbolic learning. 
+In 2016, I was awarded a prestigious early career fellowship from the Alan Turing Institute, UK, and before that, I a Postdoctoral Researcher in the Department of Computer Science of the University of Oxford. My recent outcomes involve scaling symbolic reasoning to billions of triples, as well as addressing open problems in neurosymbolic learning. I am joining the Huawei Labs as a Technical Expert in May 2025. 
 
