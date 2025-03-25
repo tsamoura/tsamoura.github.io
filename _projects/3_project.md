@@ -13,5 +13,5 @@ ChaseGoal outperforms by several orders of magnitude in terms of runtime and mem
 
 ## Relevant publications
 <div class="publications">
-  {% bibliography -f papers -q @*[key=DBLP:conf/pods/BenediktKMMPST17]* %}
+  {% bibliography -f papers -q @*[key=DBLP:conf/aaai/BenediktMT18]* %}
 </div>

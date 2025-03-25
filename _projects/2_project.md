@@ -3,7 +3,7 @@ layout: page
 title: ChaseBench
 description: Benchmarking The Chase
 img: assets/img/4.jpg
-importance: 1
+importance: 4
 category: reasoning
 github: https://github.com/dbunibas/chasebench
 ---

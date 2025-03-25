@@ -18,8 +18,8 @@ neurosymbolic settings.
 
 ## Relevant publications
 <div class="publications">
-  {% bibliography -f papers -q @*[key=feldstein2024mappingneurosymbolicailandscape]* %}
-  {% bibliography -f papers -q @*[key=wang2024characterizingmitigatingimbalancesmultiinstance]* %}
-  {% bibliography -f papers -q @*[key=NeurIPS2023]* %}
   {% bibliography -f papers -q @*[key=DBLP:conf/aaai/TsamouraHM21]* %}
+  {% bibliography -f papers -q @*[key=NeurIPS2023]* %}
+  {% bibliography -f papers -q @*[key=wang2024characterizingmitigatingimbalancesmultiinstance]* %}
+  {% bibliography -f papers -q @*[key=feldstein2024mappingneurosymbolicailandscape]* %}
 </div>

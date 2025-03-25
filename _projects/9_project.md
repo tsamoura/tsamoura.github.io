@@ -9,8 +9,7 @@ github: https://github.com/jonathanfeldstein/Concordia
 ---
 
 Teacher-Student neurosymbolic framework, where instead of being a complex deep model, the teacher is a 
-probabilistic logical theory.  
-The framework is implemented in PyTorch.
+probabilistic logical theory. The framework is implemented in PyTorch.
 Concordia supports supervised, semi-supervised, and unsupervised training and has been applied to a variety of tasks, outperforming the relevant state-of-the-art. 
 In particular, Concordia outperforms
 <a href="https://aclanthology.org/D18-1215/">DLP</a>,
@@ -22,12 +21,11 @@ on entity linking and
 <a href="https://arxiv.org/abs/1512.00567">Inception-v3</a> as backbone networks. 
 Concordia is strictly more expressive than  
 <a href="https://aclanthology.org/D18-1215/">DLP</a> and
-<a href="https://aclanthology.org/P16-1228/">T-S</a> 
-in terms of the types of supported logical theories.
+<a href="https://aclanthology.org/P16-1228/">T-S</a> in terms of the types of supported logical theories.
 
 
 ## Relevant publications
 <div class="publications">
-  {% bibliography -f papers -q @*[key=feldstein2024mappingneurosymbolicailandscape]* %}
   {% bibliography -f papers -q @*[key=DBLP:conf/icml/FeldsteinJT23]* %}
+  {% bibliography -f papers -q @*[key=feldstein2024mappingneurosymbolicailandscape]* %}
 </div>

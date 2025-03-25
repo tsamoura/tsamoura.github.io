@@ -1,16 +1,16 @@
 ---
 layout: page
-title: Lineage Trigger Graphs (LTGs)
+title: Lineage Trigger Graphs
 description: Probabilistic Reasoning Under the Possible World Semantics
 img: assets/img/4.jpg
-importance: 1
+importance: 2
 category: reasoning
 github: https://github.com/karmaresearch/glog
 ---
 
 
 C++ engine to support sound and complete query answering over probabilistic knowledge graphs using Datalog rules under the <a href="https://link.springer.com/book/10.1007/978-3-031-01879-4">distribution semantics</a>. 
-LTGs is an extension of GLog. 
+Lineage Trigger Graphs (LTGs) is an extension of Trigger Graphs. 
 LTGs substantially outperforms engines, such as 
 <a href="https://www.sciencedirect.com/science/article/pii/S0888613X16300949">ProbLog2</a>,
 <a href="https://ojs.aaai.org/index.php/AAAI/article/view/6591">vProbLog</a>, and
@@ -23,8 +23,8 @@ under the Android NDK for reasoning that runs exclusively on-device.
 LTGs offers a 
 <a href="https://github.com/karmaresearch/glog-python">Python API</a>.
 <a href="https://github.com/karmaresearch/ltgs">Here</a>
-are further instructions and scripts to reproduce the experiments in the 
-<a href="https://dl.acm.org/doi/abs/10.1145/3588719">SIGMOD 2023 paper</a>. 
+are further instructions and scripts to reproduce the experiments in 
+<a href="https://dl.acm.org/doi/abs/10.1145/3588719">SIGMOD 2023</a>. 
 LTGs can be applied to on-device visual question answering and outperforms 
 <a href="https://aclanthology.org/D19-1514/">LXMERT</a> and
 <a href="https://cricvqa.github.io/">RVC</a> on the
