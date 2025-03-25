@@ -38,7 +38,7 @@ ninja.data = [{
             },},{id: "news-uploaded-our-neurosymbolic-literature-review-paper-to-arxiv-special-thanks-to-jonathan-feldstein-paulius-dilkas-and-vaishak-belle-sparkles",
           title: 'Uploaded our neurosymbolic literature review paper to arXiv. Special thanks to Jonathan Feldstein,...',
           description: "",
-          section: "News",},{id: "news-the-webpage-of-our-1st-workshop-on-new-ideas-for-large-scale-neurosymbolic-learning-systems-ls-nsl-is-out-sparkles-we-look-forward-to-receiving-your-paper",
+          section: "News",},{id: "news-the-webpage-of-our-1st-workshop-on-new-ideas-for-large-scale-neurosymbolic-learning-systems-ls-nsl-is-out-sparkles-we-look-forward-to-receiving-your-papers",
           title: 'The webpage of our 1st Workshop on New Ideas for Large-Scale Neurosymbolic Learning...',
           description: "",
           section: "News",},{id: "news-very-honored-to-join-huawei-labs-as-a-technical-expert-sparkles",
