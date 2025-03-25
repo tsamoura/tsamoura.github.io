@@ -11,7 +11,7 @@ github: https://github.com/karmaresearch/glog
 
 C++ engine to support sound and complete query answering over probabilistic knowledge graphs using Datalog rules under the <a href="https://link.springer.com/book/10.1007/978-3-031-01879-4">distribution semantics</a>. 
 Lineage Trigger Graphs (LTGs) is an extension of Trigger Graphs. 
-LTGs substantially outperforms engines, such as 
+<strong>LTGs outperforms by several orders of magnitude</strong> engines, such as 
 <a href="https://www.sciencedirect.com/science/article/pii/S0888613X16300949">ProbLog2</a>,
 <a href="https://ojs.aaai.org/index.php/AAAI/article/view/6591">vProbLog</a>, and
 <a href="https://www.cis.upenn.edu/~mhnaik/papers/neurips21.pdf">Scallop</a>,
@@ -32,7 +32,7 @@ LTGs can be applied to on-device visual question answering and outperforms
 In addition, its <a href="https://github.com/karmaresearch/glog-python">Python API</a> offers easy integration with foundational models.
 
 ## Repository
-<a href="https://github.com/karmaresearch/glog">GLog</a>
+<a href="https://github.com/karmaresearch/glog">GLog</a> and <a href="https://github.com/karmaresearch/glog-python">GLog Python API</a> 
 
 ## Relevant publications
 <div class="publications">

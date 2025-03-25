@@ -15,7 +15,7 @@ C++ engine to support sound and reason over knowledge graphs using Datalog rules
 <a href="https://www.vldb.org/pvldb/vol11/p975-bellomarini.pdf">Vadalog</a>,
 <a href="https://link.springer.com/chapter/10.1007/978-3-642-13486-9_15">WebPIE</a>, and 
 <a href="https://dl.acm.org/doi/abs/10.14778/2904121.2904123">Inferray</a>, by several orders of magnitude in terms of runtime, while incurring the same or less main memory overhead. 
-Regarding RDFox, GLog substantially outperform it in terms of time and memory efficiency despite the fact that GLog reason using a single thread only: <strong>in on-device reasoning, GLog is more than 18x faster (1s vs 18.7s) than RDFox when RDFox uses 1 thread, and up to 6x faster (1s vs 6s) when RDFox uses 16 thread</strong>. Furthermore, the memory requirements of GLog are most of the times lower than that of RDFox. In terms of scalability, <strong>GLog allows materializing
+Regarding RDFox, GLog substantially outperform it in terms of time and memory efficiency despite the fact that GLog reason using a single thread only: <strong>in on-device reasoning, GLog is more than 18x faster (1s vs 18.7s) than RDFox when RDFox uses 1 thread, and up to 6x faster (1s vs 6s) when RDFox uses 16 thread</strong>. Furthermore, the memory requirements of GLog are usually lower than those of RDFox. In terms of scalability, <strong>GLog allows materializing
 knowledge graphs with 17B facts in less than 40 min using a single
 machine with commodity hardware</strong>. 
 Other knowledge graphs in which GLog outperforms the state-of-the-art are 
@@ -26,8 +26,9 @@ Other knowledge graphs in which GLog outperforms the state-of-the-art are
 <a href="https://dh-abstracts.library.virginia.edu/works/1312">Claros</a>,
 <a href="https://pubmed.ncbi.nlm.nih.gov/31691815/">Reactome</a>, and
 <a href="https://www.sciencedirect.com/science/article/pii/S0004370212000719">Yago</a>.
+
 GLog can be deployed on mobile phones 
-under the Android NDK for reasoning that runs exclusively on-device. 
+under the Android NDK for reasoning running exclusively on-device. 
 
 ## Repository
 <a href="https://github.com/karmaresearch/glog">GLog</a>

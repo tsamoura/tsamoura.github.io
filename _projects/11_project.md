@@ -8,7 +8,7 @@ category: query answering over knowledge bases
 github: https://krr-nas.cs.ox.ac.uk/2024/goal-driven-QA/
 ---
 
-Supporting sound and complete query answering over knowledge graphs under very complex classes of rules has been a long-standing problem in AI. This is the first technique to support query answering under second-order rules with equality in the order of milliseconds. The technique has been implemented on top of the <a href="https://www.oxfordsemantic.tech/rdfox">RDFOX's</a> Java API and has been developed in collaboration with Oxford Semantics Technologies. 
+Supporting sound and complete query answering over knowledge graphs under very complex classes of rules has been a long-standing problem in AI. This is the <strong>first technique to support query answering under second-order rules with equality in the order of milliseconds</strong>. The technique has been implemented on top of the <a href="https://www.oxfordsemantic.tech/rdfox">RDFOX's</a> Java API and has been developed in collaboration with Oxford Semantics Technologies. 
 
 ## Repository
 <a href="https://krr-nas.cs.ox.ac.uk/2024/goal-driven-QA/">Goal Driven QA</a>

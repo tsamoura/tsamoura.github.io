@@ -19,9 +19,7 @@ on entity linking and
 <a href="https://arxiv.org/abs/2010.12968">IARG</a> and
 <a href="https://www.computer.org/csdl/proceedings-article/cvprw/2013/4990a566/12OmNyVes6e">PSL-CAD</a> on collective activity detection when using <a href="https://arxiv.org/abs/1704.04861">MobileNet</a> and
 <a href="https://arxiv.org/abs/1512.00567">Inception-v3</a> as backbone networks. 
-Concordia is strictly more expressive than  
-<a href="https://aclanthology.org/D18-1215/">DLP</a> and
-<a href="https://aclanthology.org/P16-1228/">T-S</a> in terms of the types of supported logical theories.
+Concordia is <strong>strictly more expressive</strong> than <a href="https://aclanthology.org/D18-1215/">DLP</a> and <a href="https://aclanthology.org/P16-1228/">T-S</a> in terms of the types of supported logical theories.
 
 ## Repository
 <a href="https://github.com/jonathanfeldstein/Concordia">Concordia</a>
