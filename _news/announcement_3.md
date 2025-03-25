@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Very honored to join Huawei Labs as a Technical Expert :sparkles: 
+Very honored to join <a href='#'>Huawei Labs</a> as a Technical Expert :sparkles: 
