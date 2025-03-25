@@ -440,7 +440,17 @@ ninja.data = [{
             },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
           title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
           description: "",
-          section: "News",},{id: "projects-pdq",
+          section: "News",},{id: "projects-prism",
+          title: 'PRISM',
+          description: "Rule Mining Using Structural Motifs",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/10_project/";
+            },},{id: "projects-so-qa",
+          title: 'SO-QA',
+          description: "Query Answering Over Knowledge Graphs Using Second-Order Theories",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/11_project/";
+            },},{id: "projects-pdq",
           title: 'PDQ',
           description: "Proof-Driven Querying",
           section: "Projects",handler: () => {
@@ -452,7 +462,7 @@ ninja.data = [{
               window.location.href = "/projects/2_project/";
             },},{id: "projects-chasegoal",
           title: 'ChaseGoal',
-          description: "Query Answering Over Knowledge Graphs",
+          description: "Query Answering Over Knowledge Graphs Using First-Order Theories",
           section: "Projects",handler: () => {
               window.location.href = "/projects/3_project/";
             },},{id: "projects-vproblog",
@@ -465,6 +475,26 @@ ninja.data = [{
           description: "Compositional Neurosymbolic Integration",
           section: "Projects",handler: () => {
               window.location.href = "/projects/5_project/";
+            },},{id: "projects-trigger-graphs",
+          title: 'Trigger Graphs',
+          description: "Reasoning Over Billions of Triples Under Datalog",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/6_project/";
+            },},{id: "projects-lineage-trigger-graphs-ltgs",
+          title: 'Lineage Trigger Graphs (LTGs)',
+          description: "Probabilistic Reasoning Under the Possible World Semantics",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/7_project/";
+            },},{id: "projects-ngp",
+          title: 'NGP',
+          description: "Scene Graph Generation Using Background Knolwedge",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/8_project/";
+            },},{id: "projects-concordia",
+          title: 'Concordia',
+          description: "Teacher-Student Neurosymbolic Learning",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/9_project/";
             },},{
         id: 'social-email',
         title: 'email',
