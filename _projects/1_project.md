@@ -1,14 +1,14 @@
 ---
 layout: page
 title: PDQ
-description: Proof-Driven Querying
+description: Querying distributed data sources under access and database constraints 
 img: assets/img/4.jpg
 importance: 1
 category: logic and databases
 github: https://github.com/ProofDrivenQuerying/pdq
 ---
 
-Java engine to support querying remote distributed data sources under different access patterns (e.g., web services) and database constraints (e.g., inclusion dependencies). The engine has been demoed on multiple scenarios, including querying biological data available via web services.
+Java engine to support querying distributed data sources under different access patterns (e.g., web services, html forms) and database constraints (e.g., inclusion dependencies, views, schema mappings). The engine has been demonstrated in multiple scenarios, including querying biological data available via web services.
 
 ## Repository
 <a href="https://github.com/ProofDrivenQuerying/pdq">PDQ</a>
