@@ -65,7 +65,7 @@ ninja.data = [{
               window.location.href = "/projects/11_project.html";
             },},{id: "projects-pdq",
           title: 'PDQ',
-          description: "Proof-Driven Querying",
+          description: "Querying distributed data sources under access and database constraints",
           section: "Projects",handler: () => {
               window.location.href = "/projects/1_project.html";
             },},{id: "projects-chasebench",
