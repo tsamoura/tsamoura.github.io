@@ -65,12 +65,12 @@ ninja.data = [{
               window.location.href = "/projects/11_project.html";
             },},{id: "projects-pdq",
           title: 'PDQ',
-          description: "Querying distributed data sources under access and database constraints",
+          description: "Querying Distributed Data Sources Under Access and Database Constraints",
           section: "Projects",handler: () => {
               window.location.href = "/projects/1_project.html";
             },},{id: "projects-chasebench",
           title: 'ChaseBench',
-          description: "Benchmarking The Chase",
+          description: "Benchmarking Reasoning Engines and Theorem Provers",
           section: "Projects",handler: () => {
               window.location.href = "/projects/2_project.html";
             },},{id: "projects-chasegoal",
