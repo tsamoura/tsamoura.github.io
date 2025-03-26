@@ -1,7 +1,7 @@
 ---
 layout: page
 title: PDQ
-description: Querying distributed data sources under access and database constraints 
+description: Querying Distributed Data Sources Under Access and Database Constraints 
 img: assets/img/4.jpg
 importance: 1
 category: logic and databases

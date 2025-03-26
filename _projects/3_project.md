@@ -17,4 +17,5 @@ ChaseGoal <strong>outperforms by several orders of magnitude in terms of runtime
 ## Relevant publications
 <div class="publications">
   {% bibliography -f papers -q @*[key=DBLP:conf/aaai/BenediktMT18]* %}
+  {% bibliography -f papers -q @*[key=DBLP:conf/pods/BenediktKMMPST17]* %}
 </div>
