@@ -25,12 +25,12 @@ latest_posts:
 ---
 
 I am a researcher working on logic, knowledge representation and reasoning, and neurosymbolic learning.
-From 2019 to 2025, I was a Senior Researcher at Samsung AI, Cambridge, UK, leading the research on reasoning and neurosymbolic learning. 
-In 2016, I was awarded a prestigious early career fellowship from the Alan Turing Institute, UK, for my work on logic and databases and before that, I was a Postdoctoral Researcher in the Department of Computer Science of the University of Oxford. 
+From 2019 to 2025, I was a Senior Researcher at Samsung AI, Cambridge, UK, leading research on reasoning and neurosymbolic learning. 
+In 2016, I was awarded a prestigious early career fellowship from the Alan Turing Institute, UK, for my work on logic and databases, and before that, I was a Postdoctoral Researcher in the Department of Computer Science of the University of Oxford. 
 
-My recent outcomes involve scaling symbolic reasoning and query answering to billions of triples, see <a href="https://tsamoura.github.io/projects/">my software page</a> for further information, as well as addressing open problems in neurosymbolic learning, see 
+My recent outcomes involve scaling symbolic reasoning and query answering to billions of triples, as well as addressing open problems in neurosymbolic learning, see 
 <a href="https://papers.nips.cc/paper_files/paper/2023/hash/1e83498c3eafe109a44b12979c2c73db-Abstract-Conference.html">NeurIPS 2023</a> and <a href="https://arxiv.org/abs/2407.10000">arXiv 2024</a>. I was also the first to develop 
-<a href="https://tsamoura.github.io/projects/11_project.html">goal-driven query answering techniques under second-order theories</a> that run in the order of milliseconds, correcting an incompleteness of previous work. 
+<a href="https://tsamoura.github.io/projects/11_project.html">goal-driven query answering techniques under second-order theories</a> that run in the order of milliseconds, correcting an incompleteness error of previous work.  See <a href="https://tsamoura.github.io/projects/">my software page</a> for further information.
 
 I am joining the Huawei Labs as a Technical Expert in May 2025. 
 
