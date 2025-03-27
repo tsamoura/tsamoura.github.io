@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Visiting the <a href='#'>Huawei Labs</a> in Edinburgh to give a technical talk and meet my colleagues :sparkles: 
+Visiting <a href='#'>Huawei Labs</a> in Edinburgh to give a technical talk and meet my colleagues :sparkles: 
