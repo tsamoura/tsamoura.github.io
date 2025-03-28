@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Very honored to join <a href='#'>Huawei Labs</a> as a Technical Expert :sparkles: 
+Thrilled to join <a href='#'>Huawei Labs</a> and lead a team on ondevice systems :sparkles: 
