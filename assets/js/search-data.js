@@ -66,6 +66,11 @@ ninja.data = [{
           description: "Query Answering Over Knowledge Graphs Using Second-Order Theories",
           section: "Projects",handler: () => {
               window.location.href = "/projects/11_project.html";
+            },},{id: "projects-python-reasoning-api",
+          title: 'Python Reasoning API',
+          description: "API for Accessing GLog and Lineage Trigger Graphs from Python",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/12_project.html";
             },},{id: "projects-pdq",
           title: 'PDQ',
           description: "Querying Distributed Data Sources Under Access and Database Constraints",
