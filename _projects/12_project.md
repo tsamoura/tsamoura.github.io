@@ -17,6 +17,6 @@ Trigger Graphs and their probabilistic extension offer a Python API. Instruction
 
 ## Relevant publications
 <div class="publications">
-  {% bibliography -f papers -q @*[key=DBLP:conf/aaai/TsamouraGK20]* %}
+  {% bibliography -f papers -q @*[key=DBLP:journals/pvldb/TsamouraCMU21]* %}
   {% bibliography -f papers -q @*[key=DBLP:journals/pacmmod/TsamouraLU23]* %}
 </div>
