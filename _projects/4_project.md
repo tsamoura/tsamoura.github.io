@@ -3,7 +3,7 @@ layout: page
 title: vProbLog
 description: Probabilistic Reasoning Under the Possible World Semantics
 img: assets/img/4.jpg
-importance: 3
+importance: 4
 category: reasoning
 github: https://bitbucket.org/tsamoura/vproblog/src/master/
 ---

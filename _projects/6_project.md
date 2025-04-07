@@ -18,6 +18,7 @@ C++ engine to support sound and reason over knowledge graphs using Datalog rules
 Regarding RDFox, GLog substantially outperform it in terms of time and memory efficiency despite the fact that GLog reason using a single thread only: <strong>in on-device reasoning, GLog is more than 18x faster (1s vs 18.7s) than RDFox when RDFox uses 1 thread, and up to 6x faster (1s vs 6s) when RDFox uses 16 thread</strong>. Furthermore, the memory requirements of GLog are usually lower than those of RDFox. In terms of scalability, <strong>GLog allows materializing
 knowledge graphs with 17B facts in less than 40 min using a single
 machine with commodity hardware</strong>. 
+
 Other knowledge graphs in which GLog outperforms the state-of-the-art are 
 <a href="https://dl.acm.org/doi/10.1145/3034786.3034796">ChaseBench</a>,
 <a href="https://dl.acm.org/doi/10.1016/j.websem.2005.06.005">LUBM</a>,

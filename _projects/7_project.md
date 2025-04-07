@@ -18,21 +18,18 @@ Lineage Trigger Graphs (LTGs) is an extension of Trigger Graphs.
 both in terms of runtime and memory overhead, even without approximations. 
 The technology behind LTGs extends the notion of 
 <a href="https://openproceedings.org/ICDT/2014/paper_36.pdf">provenance circuits</a>.
-LTGs can be deployed on mobile phones 
-under the Android NDK for reasoning that runs exclusively on-device.
-LTGs offers a 
-<a href="https://github.com/karmaresearch/glog-python">Python API</a>.
-<a href="https://github.com/karmaresearch/ltgs">Here</a>
-are further instructions and scripts to reproduce the experiments in 
-<a href="https://dl.acm.org/doi/abs/10.1145/3588719">SIGMOD 2023</a>. 
-LTGs can be applied to on-device visual question answering and outperforms 
+LTGs can be applied to visual question answering, outperforming 
 <a href="https://aclanthology.org/D19-1514/">LXMERT</a> and
 <a href="https://cricvqa.github.io/">RVC</a> on the
 <a href="https://proceedings.neurips.cc/paper/2021/hash/d367eef13f90793bd8121e2f675f0dc2-Abstract.html">VQAR benchmark</a>.
-In addition, its <a href="https://github.com/karmaresearch/glog-python">Python API</a> offers easy integration with foundational models.
+Like GLog, LTGs can be deployed on mobile phones 
+under the Android NDK for reasoning that runs exclusively on-device.
+
+Instructions and scripts for reproducing the experiments in 
+<a href="https://dl.acm.org/doi/abs/10.1145/3588719">SIGMOD 2023</a> can be found <a href="https://github.com/karmaresearch/ltgs">here</a>.
 
 ## Repository
-<a href="https://github.com/karmaresearch/glog">GLog</a> and <a href="https://github.com/karmaresearch/glog-python">GLog Python API</a> 
+<a href="https://github.com/karmaresearch/glog">GLog</a> 
 
 ## Relevant publications
 <div class="publications">
