@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Python Reasoning API
-description: API for Accessing GLog and Lineage Trigger Graphs from Python 
+description: API for Accessing (Lineage) Trigger Graphs from Python 
 img: assets/img/4.jpg
 importance: 3
 category: reasoning
@@ -9,7 +9,7 @@ github: https://github.com/karmaresearch/glog-python
 ---
 
 
-GLog, the Trigger Graphs C++ engine, and Lineage Trigger Graphs, the probabilistic extension, offer a Python API. Instructions for using the API can be found <a href="https://github.com/karmaresearch/ltgs?tab=readme-ov-file#using-the-python-api">here</a>. 
+Trigger Graphs and their probabilistic extension offer a Python API. Instructions and examples of using this API can be found <a href="https://github.com/karmaresearch/ltgs?tab=readme-ov-file#using-the-python-api">here</a>. 
 
 
 ## Repository
