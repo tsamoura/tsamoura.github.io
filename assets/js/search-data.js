@@ -68,7 +68,7 @@ ninja.data = [{
               window.location.href = "/projects/11_project.html";
             },},{id: "projects-python-reasoning-api",
           title: 'Python Reasoning API',
-          description: "API for Accessing GLog and Lineage Trigger Graphs from Python",
+          description: "API for Accessing (Lineage) Trigger Graphs from Python",
           section: "Projects",handler: () => {
               window.location.href = "/projects/12_project.html";
             },},{id: "projects-pdq",
