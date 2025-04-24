@@ -6,4 +6,4 @@ related_posts: false
 ---
 
 Very honored to receive an invitation from <a href='#'>Gilles Pesant</a> from École Polytechnique de Montréal
-to present my research at the IVADO Montreal workshop on Neuro-Symbolic AI, May 5-7, and discuss the latest advances in the field with <a href='#'>Yoshua Bengio</a>, <a href='#'>Luc De Raedt</a>, <a href='#'>Francesca Rossi</a>, and many other leaders in AI :sparkles: 
+to present my research at the <a href="https://ivado.ca/en/events/panel-the-future-of-neuro-symbolic-ai/">IVADO Montreal Workshop on Neuro-Symbolic AI</a>, May 5-7, and discuss the latest advances in the field with <a href='#'>Yoshua Bengio</a>, <a href='#'>Luc De Raedt</a>, <a href='#'>Francesca Rossi</a>, and many other leaders in AI :sparkles: 
