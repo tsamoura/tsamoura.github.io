@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Moving to Huawei Labs</a>
+subtitle: <a href='#'>Huawei Labs</a>
 
 profile:
   align: right
@@ -34,6 +34,4 @@ One of the best moments in my career was my participation in the <a href="https:
 My recent outcomes involve scaling symbolic reasoning and query answering to billions of triples, as well as addressing open problems in neurosymbolic learning, see 
 <a href="https://papers.nips.cc/paper_files/paper/2023/hash/1e83498c3eafe109a44b12979c2c73db-Abstract-Conference.html">NeurIPS 2023</a> and <a href="https://arxiv.org/abs/2407.10000">arXiv 2024</a>. I was also the first to develop 
 <a href="https://tsamoura.github.io/projects/11_project.html">goal-driven query answering techniques under second-order theories</a> that run in the order of milliseconds, correcting an incompleteness error of previous work. See <a href="https://tsamoura.github.io/projects/">my software page</a> for further information.
-
-I am joining Huawei Labs as a Technical Expert in May 2025. 
 

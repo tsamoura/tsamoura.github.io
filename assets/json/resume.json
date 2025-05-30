@@ -16,8 +16,8 @@
       "name": "Huawei Labs",
       "location": "Cambidge, UK",
       "position": "Technical Expert",
-      "startDate": "2025-05-07",
-      "summary": "I will join Huawei Labs to lead the ondevice team."
+      "startDate": "2025-05-12",
+      "summary": "I am leading research on ondevice systems and neurosymbolic learning."
     },
     {
       "name": "Samsung AI Centre (SAIC), Cambridge",
@@ -94,6 +94,14 @@
       "location": "Jeju, South Korea",
       "date": "2025-08-01",
       "summary": "I presented my latest work on neurosymbolic learning, emphasizing on learnability and imbalanced learning."
+    },
+    {
+      "position": "Learning Imbalances in Neurosymbolic Learning: Formal Characterization and Mitigation (to appear)",
+      "organization": "8th Workshop on Tractable Probabilistic Modeling -- collocated with the Conference on Uncertainty in Artificial Intelligence (UAI)",
+      "url": "https://tractable-probabilistic-modeling.github.io/tpm2025//", 
+      "location": "Rio de Janeiro, BR",
+      "date": "2025-07-25",
+      "summary": "I will present my latest work on formally characterizing and mitigating imbalances in neurosymbolic learning."
     }
   ],
   "workshops": [
