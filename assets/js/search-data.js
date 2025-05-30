@@ -56,7 +56,7 @@ ninja.data = [{
           section: "News",},{id: "news-very-excited-to-receive-an-invitation-to-give-a-keynote-at-the-8th-workshop-on-tractable-probabilistic-modeling-that-will-be-collocated-with-uai-2025-special-thanks-to-all-the-organizers-sparkles",
           title: 'Very excited to receive an invitation to give a keynote at the 8th...',
           description: "",
-          section: "News",},{id: "news-we-extended-the-submission-deadline-of-the-1st-workshop-on-new-ideas-for-large-scale-neurosymbolic-learning-systems-ls-nsl-to-the-june-6-2025-of-sparkles",
+          section: "News",},{id: "news-we-extended-the-submission-deadline-of-the-1st-workshop-on-new-ideas-for-large-scale-neurosymbolic-learning-systems-ls-nsl-to-june-6-2025-sparkles",
           title: 'We extended the submission deadline of the 1st Workshop on New Ideas for...',
           description: "",
           section: "News",},{id: "projects-prism",
