@@ -5,6 +5,6 @@ inline: true
 related_posts: false
 ---
 
-We extended the submission deadline of the <a href="https://karmaresearch.github.io/NILS2025/"> 1st Workshop on New Ideas for Large-Scale Neurosymbolic Learning Systems (LS-NSL)</a> to the <strong>June 6, 2025</strong> of :sparkles:  
+We extended the submission deadline of the <a href="https://karmaresearch.github.io/NILS2025/"> 1st Workshop on New Ideas for Large-Scale Neurosymbolic Learning Systems (LS-NSL)</a> to <strong>June 6, 2025</strong> :sparkles:  
 
 
