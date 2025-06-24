@@ -1,10 +1,10 @@
 ---
 layout: post
-date: 2025-05-30 15:59:00-0400
+date: 2025-06-17 15:59:00-0400
 inline: true
 related_posts: false
 ---
 
-We extended the submission deadline of the <a href="https://karmaresearch.github.io/NILS2025/"> 1st Workshop on New Ideas for Large-Scale Neurosymbolic Learning Systems (LS-NSL)</a> to <strong>June 6, 2025</strong> :sparkles:  
+I will serve as a <strong>Chair for the Industrial Track</strong> for the <a href="https://vldb.org/2026/">52nd International Conference on Very Large Data Bases (VLDB 2026)</a>, one of the most eminent venues for database research. Special thanks to <a href='#'>Angela Bonifati</a> and <a href='#'>Mirek Riedewald</a> for the invitation :sparkles:  
 
 
