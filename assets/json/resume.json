@@ -104,6 +104,15 @@
       "summary": "I will present my latest work on formally characterizing and mitigating imbalances in neurosymbolic learning."
     }
   ],
+  "schools": [
+    {
+      "position": "Neurosymbolic Learning: An Introductory Course to Theory and Applications",
+      "organization": "2025 European Summer School in Logic, Language, and Information (ESSLLI)",
+      "url": "https://github.com/tsamoura/ESSLLI2025_NSL", 
+      "location": "Bochum, Germany",
+      "date": "2025-08"
+    }
+  ],
   "workshops": [
     {
       "position": "1st Samsung AI Neurosymbolic Workshop",
@@ -232,7 +241,7 @@
       "name": "FASHIN: Federated Access to Secure Healthcare INformation",
       "date": "2017",
       "summary": "This project developed techniques for accessing distributed data from the National Health Service (NHS) in an efficient and privacy-preserving fashion. This research grant was authored by me.",
-      "highlights": ["Budget: £100K", "Role: Principal Investigator", "Funding source: Turing Institute, UK and FARR Institute, UK"]
+      "highlights": ["Budget: £100K", "Role: Principal Investigator", "Funding source: Turing Institute, UK, and FARR Institute, UK"]
     },
     {
       "name": "Simple Unified Access to Biological Resources on The Web",
