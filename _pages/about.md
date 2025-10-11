@@ -24,9 +24,9 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I am a researcher working on logic, knowledge representation and reasoning, and neurosymbolic learning.
+I am a Technical Expert at Huawei Labs, focusing on logic, knowledge representation and reasoning, and neurosymbolic learning.
 From 2019 to 2025, I was a Senior Researcher at Samsung AI, Cambridge, UK, leading research on reasoning and neurosymbolic learning. 
-In 2016, I was awarded a prestigious early career fellowship from the Alan Turing Institute, UK, for my work on logic and databases, and before that, I was a Postdoctoral Researcher in the Department of Computer Science of the University of Oxford. 
+In 2016, I was awarded a prestigious early-career fellowship from the Alan Turing Institute, UK, for my work on logic and databases, and before that, I was a Postdoctoral Researcher in the Department of Computer Science of the University of Oxford. 
 
 
 One of the best moments in my career was my participation in the <a href="https://research.samsung.com/2021saif">Samsung AI Forum</a> in 2021, where I joined the panel on neurosymbolic AI with professors <a href='#'>Leslie Valiant</a> and <a href='#'>Daniel Dongyuel Lee</a>. A second highlight was an invitation I received from the Royal Society, London, in 2024 to participate in the <a href="https://rsc-src.ca/en/events/frontiers-science-2024">Frontiers of Science (FoS) meeting</a> and discuss the challenges of deep learning with leaders in the field, including professors <a href='#'>Yoshua Bengio</a> and <a href='#'>Doina Precup</a>.
