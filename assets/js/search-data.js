@@ -59,7 +59,7 @@ ninja.data = [{
           section: "News",},{id: "news-i-will-serve-as-a-chair-for-the-industrial-track-of-the-52nd-international-conference-on-very-large-data-bases-vldb-2026-one-of-the-most-eminent-venues-for-database-research-special-thanks-to-angela-bonifati-and-mirek-riedewald-for-the-invitation-sparkles",
           title: 'I will serve as a Chair for the Industrial Track of the 52nd...',
           description: "",
-          section: "News",},{id: "news-very-honored-to-give-a-course-on-neurosymbolic-learning-at-the-2025-european-summer-school-in-logic-language-and-information-esslli-one-of-the-biggest-annual-scientific-events-in-europe-course-material-sparkles",
+          section: "News",},{id: "news-very-honored-to-give-a-course-on-neurosymbolic-learning-at-the-2025-european-summer-school-in-logic-language-and-information-esslli-one-of-the-biggest-annual-scientific-events-in-europe-the-course-material-is-online-sparkles",
           title: 'Very honored to give a course on neurosymbolic learning at the 2025 European...',
           description: "",
           section: "News",},{id: "news-two-papers-accepted-at-neurips-2025-special-thanks-to-jaron-maene-for-our-work-on-the-relationship-between-embeddings-and-probabilistic-equivalence-and-to-dan-roth-and-kaifu-wang-for-our-work-on-neurosymbolic-learning-sparkles",
