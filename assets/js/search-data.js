@@ -117,7 +117,7 @@ ninja.data = [{
               window.location.href = "/projects/7_project.html";
             },},{id: "projects-ngp",
           title: 'NGP',
-          description: "Scene Graph Generation Using Background Knolwedge",
+          description: "Scene Graph Generation Using Background Knowledge",
           section: "Projects",handler: () => {
               window.location.href = "/projects/8_project.html";
             },},{id: "projects-concordia",
