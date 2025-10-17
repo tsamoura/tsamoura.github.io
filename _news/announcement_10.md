@@ -5,5 +5,5 @@ inline: true
 related_posts: false
 ---
 
-Two papers accepted at NeurIPS 2025. Special thanks to <a href='#'>Jaron Maene</a> for our work on the relationship between embeddings and probabilistic equivalence and to <a href='#'>Dan Roth</a> and <a href='#'>Kaifu Wang</a> for our work on neurosymbolic learning :sparkles:  
+<strong>Two papers accepted at NeurIPS 2025</strong>. Special thanks to <a href='#'>Jaron Maene</a> for our work on the relationship between embeddings and probabilistic equivalence and to <a href='#'>Dan Roth</a> and <a href='#'>Kaifu Wang</a> for our work on neurosymbolic learning :sparkles:  
 
