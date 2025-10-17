@@ -35,7 +35,10 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather.html";
-            },},{id: "news-uploaded-our-neurosymbolic-literature-review-paper-to-arxiv-special-thanks-to-jonathan-feldstein-paulius-dilkas-and-vaishak-belle-sparkles",
+            },},{id: "news-uploaded-our-paper-on-neurosymbolic-symbolc-grounding-to-arxiv-special-thanks-to-emanuele-marconato-samuele-bortolotti-emile-van-krieken-paolo-morettin-elena-umili-antonio-vergari-andrea-passerini-and-stefano-teso-sparkles",
+          title: 'Uploaded our paper on neurosymbolic symbolc grounding to arXiv. Special thanks to Emanuele...',
+          description: "",
+          section: "News",},{id: "news-uploaded-our-neurosymbolic-literature-review-paper-to-arxiv-special-thanks-to-jonathan-feldstein-paulius-dilkas-and-vaishak-belle-sparkles",
           title: 'Uploaded our neurosymbolic literature review paper to arXiv. Special thanks to Jonathan Feldstein,...',
           description: "",
           section: "News",},{id: "news-the-webpage-of-our-1st-workshop-on-new-ideas-for-large-scale-neurosymbolic-learning-systems-ls-nsl-is-out-sparkles-we-look-forward-to-receiving-your-papers",
@@ -64,6 +67,9 @@ ninja.data = [{
           description: "",
           section: "News",},{id: "news-two-papers-accepted-at-neurips-2025-special-thanks-to-jaron-maene-for-our-work-on-the-relationship-between-embeddings-and-probabilistic-equivalence-and-to-dan-roth-and-kaifu-wang-for-our-work-on-neurosymbolic-learning-sparkles",
           title: 'Two papers accepted at NeurIPS 2025. Special thanks to Jaron Maene for our...',
+          description: "",
+          section: "News",},{id: "news-thrilled-to-be-selected-as-a-top-reviewer-at-neurips-2025-sparkles",
+          title: 'Thrilled to be selected as a Top Reviewer at NeurIPS 2025 :sparkles:',
           description: "",
           section: "News",},{id: "projects-prism",
           title: 'PRISM',
