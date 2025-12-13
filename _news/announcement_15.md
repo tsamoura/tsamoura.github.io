@@ -5,5 +5,5 @@ inline: true
 related_posts: false
 ---
 
-Honored to receive an invitation by the <a href="https://www.leverhulme.ac.uk">Leverhulme Trust</a> to review grant application proposals :sparkles:  
+Honored to receive an invitation by the <a href="https://www.leverhulme.ac.uk">Leverhulme Trust</a> to become a reviewer for grant application proposals :sparkles:  
 
