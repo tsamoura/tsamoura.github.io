@@ -5,5 +5,5 @@ inline: true
 related_posts: false
 ---
 
-Our neurosymbolic AI workskop <strong>Unifiying Concept Representation Learning</strong> will be co-held with <strong>ICLR 2026</strong>. Special thanks to Amit Dhurandhar, Amir-Hossein Karimi, Sara Magliacane, Stefano Teso, and Zhe Zeng :sparkles:  
+Our neurosymbolic AI workskop <a href="https://ucrl-iclr26.github.io/">Unifiying Concept Representation Learning</a> will be co-held with <strong>ICLR 2026</strong>. Special thanks to Amit Dhurandhar, Amir-Hossein Karimi, Sara Magliacane, Stefano Teso, and Zhe Zeng :sparkles:  
 
