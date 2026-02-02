@@ -80,7 +80,7 @@ ninja.data = [{
           section: "News",},{id: "news-honored-to-receive-an-invitation-by-the-leverhulme-trust-to-become-a-reviewer-for-grant-application-proposals-sparkles",
           title: 'Honored to receive an invitation by the Leverhulme Trust to become a reviewer...',
           description: "",
-          section: "News",},{id: "news-excited-to-be-invited-by-the-ucl-ai-center-to-give-a-talk-on-neurosymbolic-learning-on-february-20-2026-sparkles",
+          section: "News",},{id: "news-excited-to-be-invited-by-the-ucl-ai-center-to-give-a-talk-on-neurosymbolic-learning-on-february-27-2026-reserve-your-spot-following-this-link-sparkles",
           title: 'Excited to be invited by the UCL AI Center to give a talk...',
           description: "",
           section: "News",},{id: "news-very-excited-to-receive-an-invitation-to-give-a-keynote-at-the-2nd-workshop-on-transforming-graph-data-that-will-be-collocated-with-edbt-2026-special-thanks-to-all-the-organizers-sparkles",
