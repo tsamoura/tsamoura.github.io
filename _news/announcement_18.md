@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-<a href="https://github.com/jjcmoon/triggergraphs">Python bindings</a> for the Trigger Graphs Datalog engine are available online. Special thanks to Jaron Maene :sparkles: 
+<a href="https://github.com/jjcmoon/triggergraphs">Python bindings</a> for the <a href="https://tsamoura.github.io/projects/6_project.html">Trigger Graphs</a> and <a href="https://tsamoura.github.io/projects/7_project.html">Lineage Trigger Graphs</a> (probabilistic) Datalog engines are available online. Special thanks to Jaron Maene :sparkles: 

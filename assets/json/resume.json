@@ -101,7 +101,15 @@
       "url": "https://tractable-probabilistic-modeling.github.io/tpm2025//", 
       "location": "Rio de Janeiro, BR",
       "date": "2025-07-25",
-      "summary": "I will present my latest work on formally characterizing and mitigating imbalances in neurosymbolic learning."
+      "summary": "I presented my latest work on formally characterizing and mitigating imbalances in neurosymbolic learning."
+    },
+    {
+      "position": "Trigger Graphs & Probabilistic Equivalence: Towards Scalable and Efficient Neurosymbolic Learning and Inference (to appear)",
+      "organization": " 2nd Workshop on Transforming Graph Data -- collocated with the 29th International Conference on Extending Database Technology (EDBT)",
+      "url": "https://transforming-graph-data.github.io/2026/", 
+      "location": "Tampere, Finland",
+      "date": "2026-03-24",
+      "summary": "I will present my latest work on neurosymbolic learning and probabilistic logic programming."
     }
   ],
   "schools": [
