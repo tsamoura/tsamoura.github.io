@@ -110,6 +110,11 @@ ninja.data = [{
           description: "API for Accessing (Lineage) Trigger Graphs from Python",
           section: "Projects",handler: () => {
               window.location.href = "/projects/12_project.html";
+            },},{id: "projects-embeddings-as-probabilistic-equivalence",
+          title: 'Embeddings as Probabilistic Equivalence',
+          description: "Neurosymbolic Learning Under New Semantics for Probabilistic Logic Programming",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/13_project.html";
             },},{id: "projects-pdq",
           title: 'PDQ',
           description: "Querying Distributed Data Sources Under Access and Database Constraints",
