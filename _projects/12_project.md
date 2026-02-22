@@ -13,7 +13,9 @@ Trigger Graphs and their probabilistic extension offer a Python API. Instruction
 
 
 ## Repository
-<a href="https://github.com/karmaresearch/glog-python">Reasoning Python API</a> 
+<a href="https://github.com/karmaresearch/glog-python">Trigger Graphs Python API</a> 
+
+<a href="https://github.com/jjcmoon/triggergraphs">Latest Python Bindings for Trigger Graphs</a> 
 
 ## Relevant publications
 <div class="publications">

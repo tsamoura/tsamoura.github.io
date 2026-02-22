@@ -3,7 +3,7 @@ layout: page
 title: Concordia
 description: Teacher-Student Neurosymbolic Learning
 img: assets/img/4.jpg
-importance: 1
+importance: 2
 category: neurosymbolic learning
 github: https://github.com/jonathanfeldstein/Concordia
 ---
