@@ -17,7 +17,11 @@
       "location": "Cambidge, UK",
       "position": "Technical Expert",
       "startDate": "2025-05-12",
-      "summary": "I am leading research on ondevice systems and neurosymbolic learning."
+      "summary": "I am leading research on ondevice systems and neurosymbolic learning.",
+      "highlights": [
+      "I developed new semantics for probabilistic logic programming that allowed neurosymbolic learning without falling into local minima.",
+      "I developed techniques that exploit the latent structure of the data to improve the efficiency of neurosymbolic learning by 53%." 
+    ]
     },
     {
       "name": "Samsung AI Centre (SAIC), Cambridge",
