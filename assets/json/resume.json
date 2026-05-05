@@ -104,12 +104,28 @@
       "summary": "I presented my latest work on formally characterizing and mitigating imbalances in neurosymbolic learning."
     },
     {
-      "position": "Trigger Graphs & Probabilistic Equivalence: Towards Scalable and Efficient Neurosymbolic Learning and Inference (to appear)",
-      "organization": " 2nd Workshop on Transforming Graph Data -- collocated with the 29th International Conference on Extending Database Technology (EDBT)",
+      "position": "Trigger Graphs & Probabilistic Equivalence: Towards Scalable and Efficient Neurosymbolic Learning and Inference",
+      "organization": "2nd Workshop on Transforming Graph Data -- collocated with the 29th International Conference on Extending Database Technology (EDBT)",
       "url": "https://transforming-graph-data.github.io/2026/", 
       "location": "Tampere, Finland",
       "date": "2026-03-24",
       "summary": "I will present my latest work on neurosymbolic learning and probabilistic logic programming."
+    },
+    {
+      "position": "Scalable rule mining under formal guarantees (to appear)",
+      "organization": "26th International Conference of Web Engineering (ICWE)",
+      "url": "https://icwe2026.webengineering.org/index.php/keynotes/", 
+      "location": "Lyon, France",
+      "date": "2026-06-12",
+      "summary": "I will present my latest work on linear time rule mining under epsilon-uncertainty."
+    },
+    {
+      "position": "Eight Years of Weakly Supervised Neurosymbolic Learning: Main Results and Algorithms (to appear)",
+      "organization": "Neuro-Symbolic Intelligence for LLMs and Autonomous Agents Workshop (NILA 2026) -- collocated with the 35th International Joint Conference on Artificial Intelligence (IJCAI-ECAI)",
+      "url": "https://sites.google.com/view/nila-workshop-ijcai-2026/home?authuser=0", 
+      "location": "Bremen, Germany",
+      "date": "2026-08-15",
+      "summary": "I will present an overview of research on weakly supervised neurosymbolic learning over the last eight years."
     }
   ],
   "schools": [
@@ -177,6 +193,13 @@
       "url": "https://karmaresearch.github.io/NILS2025/", 
       "location": "London, UK",
       "date": "2025-09"
+    },
+    {
+      "position": "Unifiying Concept Representation Learning", 
+      "organization": "collocated with the 14th International Conference on Learning Representations",
+      "url": "https://ucrl-iclr26.github.io/", 
+      "location": "Rio de Janeiro, BR",
+      "date": "2026-04"
     }
   ],
   "education": [
