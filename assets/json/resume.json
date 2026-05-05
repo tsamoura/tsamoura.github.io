@@ -112,12 +112,12 @@
       "summary": "I will present my latest work on neurosymbolic learning and probabilistic logic programming."
     },
     {
-      "position": "Scalable rule mining under formal guarantees (to appear)",
+      "position": "Scalable Rule Mining Under Formal Guarantees (to appear)",
       "organization": "26th International Conference of Web Engineering (ICWE)",
       "url": "https://icwe2026.webengineering.org/index.php/keynotes/", 
       "location": "Lyon, France",
       "date": "2026-06-12",
-      "summary": "I will present my latest work on linear time rule mining under epsilon-uncertainty."
+      "summary": "I will present my latest work on linear-time rule mining under epsilon-uncertainty."
     },
     {
       "position": "Eight Years of Weakly Supervised Neurosymbolic Learning: Main Results and Algorithms (to appear)",
@@ -125,7 +125,7 @@
       "url": "https://sites.google.com/view/nila-workshop-ijcai-2026/home?authuser=0", 
       "location": "Bremen, Germany",
       "date": "2026-08-15",
-      "summary": "I will present an overview of research on weakly supervised neurosymbolic learning over the last eight years."
+      "summary": "I will present an overview of research on weakly supervised neurosymbolic learning over the past eight years."
     }
   ],
   "schools": [
