@@ -124,6 +124,11 @@ ninja.data = [{
           description: "Neurosymbolic Learning Under New Semantics for Probabilistic Logic Programming",
           section: "Projects",handler: () => {
               window.location.href = "/projects/13_project.html";
+            },},{id: "projects-carot",
+          title: 'CAROT',
+          description: "Techniques to mitigate imbalances in neurosymbolic learning",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/14_project.html";
             },},{id: "projects-pdq",
           title: 'PDQ',
           description: "Querying Distributed Data Sources Under Access and Database Constraints",
