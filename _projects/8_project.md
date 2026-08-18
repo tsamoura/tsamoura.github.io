@@ -3,7 +3,7 @@ layout: page
 title: NGP
 description: Scene Graph Generation Using Background Knowledge 
 img: assets/img/4.jpg
-importance: 3
+importance: 4
 category: neurosymbolic learning
 ---
 

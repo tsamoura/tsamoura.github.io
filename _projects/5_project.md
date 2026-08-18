@@ -3,7 +3,7 @@ layout: page
 title: NeuroLog
 description: Compositional Neurosymbolic Integration
 img: assets/img/4.jpg
-importance: 4
+importance: 5
 category: neurosymbolic learning
 github: https://bitbucket.org/tsamoura/neurolog/src/master/
 ---
