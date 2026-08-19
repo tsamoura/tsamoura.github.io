@@ -89,7 +89,7 @@
       "url": "https://2023.eswc-conferences.org/keynote-speakers/", 
       "location": "Heraklion, GR",
       "date": "2023-06-02",
-      "summary": "I presented my latest work on reasoning and reviewed the limitations of previous reasoning techniques."
+      "summary": "My latest work on reasoning and reviewed the limitations of previous reasoning techniques."
     },
     {
       "position": "Training Neural Classifiers Using Logic",
@@ -97,7 +97,7 @@
       "url": "https://sites.google.com/view/lnsai2024/", 
       "location": "Jeju, South Korea",
       "date": "2025-08-01",
-      "summary": "I presented my latest work on neurosymbolic learning, emphasizing on learnability and imbalanced learning."
+      "summary": "My latest work on neurosymbolic learning, emphasizing on learnability and imbalanced learning."
     },
     {
       "position": "Learning Imbalances in Neurosymbolic Learning: Formal Characterization and Mitigation",
@@ -105,7 +105,7 @@
       "url": "https://tractable-probabilistic-modeling.github.io/tpm2025//", 
       "location": "Rio de Janeiro, BR",
       "date": "2025-07-25",
-      "summary": "I presented my latest work on formally characterizing and mitigating imbalances in neurosymbolic learning."
+      "summary": "My latest work on formally characterizing and mitigating imbalances in neurosymbolic learning."
     },
     {
       "position": "Trigger Graphs & Probabilistic Equivalence: Towards Scalable and Efficient Neurosymbolic Learning and Inference",
@@ -113,7 +113,7 @@
       "url": "https://transforming-graph-data.github.io/2026/", 
       "location": "Tampere, Finland",
       "date": "2026-03-24",
-      "summary": "I will present my latest work on neurosymbolic learning and probabilistic logic programming."
+      "summary": "My latest work on neurosymbolic learning and probabilistic logic programming."
     },
     {
       "position": "Scalable Rule Mining Under Formal Guarantees",
@@ -121,7 +121,7 @@
       "url": "https://icwe2026.webengineering.org/index.php/keynotes/", 
       "location": "Lyon, France",
       "date": "2026-06-12",
-      "summary": "I will present my latest work on linear-time rule mining under epsilon-uncertainty."
+      "summary": "My latest work on linear-time rule mining under epsilon-uncertainty."
     },
     {
       "position": "Eight Years of Weakly Supervised Neurosymbolic Learning: Main Results and Algorithms",
@@ -129,7 +129,7 @@
       "url": "https://sites.google.com/view/nila-workshop-ijcai-2026/home?authuser=0", 
       "location": "Bremen, Germany",
       "date": "2026-08-15",
-      "summary": "I will present an overview of research on weakly supervised neurosymbolic learning over the past eight years."
+      "summary": "An overview of research on weakly supervised neurosymbolic learning over the past eight years."
     }
   ],
   "schools": [
