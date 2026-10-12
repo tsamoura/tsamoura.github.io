@@ -5,5 +5,5 @@ inline: true
 related_posts: false
 ---
 
-Thrilled to be selected as a <strong>Top Reviewer at NeurIPS 2026</strong> :sparkles:  
+Honored to be selected as a <strong>Top Reviewer at NeurIPS 2026</strong> :sparkles:  
 
