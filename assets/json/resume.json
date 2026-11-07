@@ -19,6 +19,7 @@
       "startDate": "2025-05-12",
       "summary": "I am leading research on ondevice systems and neurosymbolic learning.",
       "highlights": [
+      "The team I lead received a Top HarmonyOS Contributor award for our breakthrough work with on-device AI agents and uncertain reasoning-based data management.",      
       "I have developed new semantics for probabilistic logic programming, called equivalence semantics, to support the integration of logic programs with neural embedding models without falling into local minima during learning, improving the baseline performance by more than 42%.",
       "I developed techniques that exploit the latent structure of the data to improve the efficiency of neurosymbolic learning by 53%." 
     ]
