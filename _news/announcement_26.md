@@ -6,5 +6,5 @@ related_posts: false
 ---
 
 
-Honored to be invited to serve as an <strong>Associate Editor</strong> for the <a href="https://vldb.org/2027/">VLDB 2027 Demonstration Track</a>, the premier venue for data management. Special thanks to the Track Chairs :sparkles:  
+Honored to serve as an <strong>Associate Editor</strong> for the <a href="https://vldb.org/2027/">VLDB 2027 Demonstration Track</a>, the premier venue for data management. Special thanks to the Track Chairs :sparkles:  
 
